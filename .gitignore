@@ -1,0 +1,29 @@
+# Credentials and tokens
+credentials.json
+token.json
+
+# Generated files
+alarm_schedule.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
